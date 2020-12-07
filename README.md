@@ -15,7 +15,7 @@ Submit shareable like to the final notebook, final report and presentation of yo
 ### Week-1
 Created this repository and shared a link to _Week1.ipynb_  notebook.
 ### Week-2
-Passes quizzes on Coursera platform.
+Passed required quizzes on Coursera platform.
 
 ### Week-3
 #### Part-1  
@@ -29,11 +29,16 @@ For a better non-interactive preview of part-3 notebook &#8594; [![nbviewer](htt
 Open _Week4_Tokyo.pdf_  file
 
 ### Week-5
-#### Notebook <br>For a better non-interactive preview of final notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/IBM_Capstone/blob/master/Week5_Tokyo_Final.ipynb)</br>
+#### Notebook 
+For a better non-interactive preview of final notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/IBM_Capstone/blob/master/Week5_Tokyo_Final.ipynb)</br>
 #### Report
 Open _Week5_Final_Report.pdf_  file
 #### Visualization
 https://public.tableau.com/profile/manohar.karanth#!/vizhome/Week5_Visualization/Dashboard1
+<br/><br/>
+### Final thoughts:
+_IBM Data Science Professional Certificate_ from coursera entails 9 courses. I chose the last one which is _Applied Data Science Capstone_. If you have already worked on multiple projects and well-explosed to data science, feel free to skip first 8 courses and jump straight into the Capstone. The course materials are concise yet comprehensive enough. Peer evaluation helped me in exploring the good practices adopted by other learners.<br/>
+Like everything else on earth, success of a business is broadly attributed to two factors - rational factor and luck factor. Luck factor in business is often associated with geography of it; for instance, Singapore's success in entrepot trading. Personally, this is the first time that I am involved in a project where location data are majorly and fully used. These learnings have opened the doors for incorporating that 'luck factor' into the equation. I reckon this course has empowered me to provide a more compreshensive and all encompassing solution going forward. 
 
 
 
