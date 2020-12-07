@@ -38,7 +38,7 @@ https://public.tableau.com/profile/manohar.karanth#!/vizhome/Week5_Visualization
 <br/><br/>
 ### Final thoughts:
 _IBM Data Science Professional Certificate_ from Coursera entails 9 courses. I chose the last one which is _Applied Data Science Capstone_. If you have already worked on multiple projects and well-explosed to data science, feel free to skip first 8 courses and jump straight into the capstone. The course materials are concise yet comprehensive enough. Peer evaluation helped me in exploring the good practices adopted by other learners.<br/>
-Like everything else on earth, success of a business is broadly attributed to two factors - rational factor and luck factor. Luck factor in business is often associated with geography of it; for instance, Singapore's success in entrepot trading. Personally, this is the first time that I am involved in a project where location data are majorly and fully used. These learnings have opened the doors for incorporating that 'luck factor' into the equation. I reckon this course has empowered me to provide a more comprehensive and all encompassing solution going forward. 
+Like everything else on earth, success of a business is broadly attributed to two factors - rational factor and luck factor. Luck factor in business is often associated with geography of it; for instance, Singapore's success in entrepot trading. Personally, this is the first time that I am involved in a project where location data are majorly and fully used. These learnings have opened the doors for incorporating that 'luck factor' into the equation. I reckon this course has empowered me to provide more comprehensive and all encompassing solutions going forward. 
 
 
 
