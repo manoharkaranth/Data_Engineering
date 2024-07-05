@@ -1,4 +1,4 @@
-## Coursera_Capstone
+## Coursera Capstone
 ### Problem statement:
 Week-1:
 Create a new repository on your Github account, create a Jupyter Notebook and submit a shareable link to it for peer evaluation.<br/>
@@ -19,18 +19,18 @@ Passed required quizzes on Coursera platform.
 
 ### Week-3
 #### Part-1  
-For a better non-interactive preview of part-1 notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/IBM_Capstone/blob/master/Week3_Part1.ipynb)</br>
+For a better non-interactive preview of part-1 notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/ibm-capstone/blob/master/Week3_Part1.ipynb)</br>
 #### Part-2 
-For a better non-interactive preview of part-2 notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/IBM_Capstone/blob/master/Week3_Part2.ipynb)</br>
+For a better non-interactive preview of part-2 notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/ibm-capstone/blob/master/Week3_Part2.ipynb)</br>
 #### Part-3 
-For a better non-interactive preview of part-3 notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/IBM_Capstone/blob/master/Week3_Part3.ipynb)</br>
+For a better non-interactive preview of part-3 notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/ibm-capstone/blob/master/Week3_Part3.ipynb)</br>
 
 ### Week-4
 Open _Week4_Tokyo.pdf_  file
 
 ### Week-5
 #### Notebook 
-For a better non-interactive preview of final notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/IBM_Capstone/blob/master/Week5_Tokyo_Final.ipynb)</br>
+For a better non-interactive preview of final notebook &#8594; [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/manoharkaranth/ibm-capstone/blob/master/Week5_Tokyo_Final.ipynb)</br>
 #### Report
 Open _Week5_Final_Report.pdf_  file
 #### Visualization
